@@ -7,3 +7,7 @@ function feature() {
 function newFeature() {
   console.log(" new Feature");
 }
+
+function nextFeature() {
+  console.log("Next!");
+}
